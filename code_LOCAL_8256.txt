@@ -1,0 +1,10 @@
+#include<iostream>
+
+int main(void)
+{
+  using namespace std;
+  
+  cout << "Helloooooooooooooooo" ;
+
+  return 0;
+}
